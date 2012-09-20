@@ -1,0 +1,28 @@
+<resources>
+
+    <string name="app_name">TechNews</string>
+    <string name="main_title">Android TechNews</string>
+    <string name="engadget_label">Engadget</string>
+    <string name="allthingsd_label">AllThingsD</string>
+    <string name="cnbeta_label">cnBeta</string>
+    <string name="exit_label">Exit</string>
+    <string name="menu_settings">Settings</string>
+    <string name="settings_label">Settings</string>
+    <string name="settings_title">Android settings</string>
+    <string name="settings_shortcut">s</string>
+    <string name="music_title">Music</string>
+    <string name="music_summary">Play background music</string>
+    <string name="choose_feed">Choose RSS Feed</string>
+    <string name="refresh">Refresh</string>
+    <string name="about_label">About</string>
+    <string name="about_text">\
+TechNews is customizable reader designed for people
+who love and enjoy technologies. In this application
+you will find news feed from various technology
+information sources in various languages, including
+engadget, CNET, AllThingsD, cnBeta and ifanr. There 
+will be three default news sources are Engadget,
+AllthingsD and cnBeta. You can change the default in
+settings.</string>
+
+</resources>
