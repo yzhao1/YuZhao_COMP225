@@ -15,6 +15,13 @@ The source code of the RSS part came from the website http://www.ibm.com/develop
 I rewrite the RSSReader class so that it can fit in the overall structure of Application. Other several helper classes
 remained unchanged.
 
+Known Bugs
+----------
+
+Codes for the source selection does not seem to work.
+
+No matter which source i select, it always display engadget.
+
 
 
 
